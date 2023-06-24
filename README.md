@@ -22,7 +22,9 @@ To run the ToDo application on your Android device or emulator, follow these ste
 
 1. Clone the repository:
 
-git clone https://github.com/Niyaj-Kumanali/ToDoApplication.git
+   ```
+   git clone https://github.com/Niyaj-Kumanali/ToDoApplication.git
+   ```
 
 2. Open Android Studio.
 
@@ -62,6 +64,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, suggestions, or feedback, please feel free to contact me.
 
-- Email: [niyajkumanali.com](mailto:your-email@example)
+- Email: [niyajkumanali@gmail.com](mailto:niyajkumanali@gmail.com)
 - GitHub: [Niyaj-Kumanali](https://github.com/Niyaj-Kumanali)
-
